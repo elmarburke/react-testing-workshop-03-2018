@@ -10,6 +10,7 @@ display: inline-block;
   padding: 2px;
   border-radius: 5px;
 `;
+EmojiWrapper.displayName = 'EmojiWrapper';
 
 export function Emoji({ shortName }) {
   const emoji = shortnameToUnicode(`:${shortName}:`);
