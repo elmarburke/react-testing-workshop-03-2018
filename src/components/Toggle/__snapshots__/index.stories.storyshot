@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Toggle default 1`] = `
+<button
+  className="sc-bdVaJa kUeAzj"
+  color="#2c8e36"
+  onClick={[Function]}
+>
+  ON
+</button>
+`;

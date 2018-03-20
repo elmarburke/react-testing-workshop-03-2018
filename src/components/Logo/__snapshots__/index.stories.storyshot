@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Logo default 1`] = `
+<span
+  className="sc-htpNat dlvyoi"
+>
+  <span
+    aria-label=""
+    role="img"
+  >
+    🔎
+  </span>
+   Emoji Picker
+</span>
+`;

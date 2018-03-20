@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button with valid shortName 1`] = `
+<button
+  className="sc-bdVaJa liURtk"
+  color="palevioletred"
+  onClick={[Function]}
+>
+  Hallo
+   
+  <span
+    aria-label=""
+    role="img"
+  >
+    👋
+  </span>
+</button>
+`;

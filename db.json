@@ -1,0 +1,9 @@
+{
+  "emoji": [
+    { "id": 1, "name": "joy" },
+    { "id": 2, "name": "unicorn" },
+    { "id": 3, "name": "smile" },
+    { "id": 4, "name": "panda_face" },
+    { "id": 5, "name": "koala" }
+  ]
+}

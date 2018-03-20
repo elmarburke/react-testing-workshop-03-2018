@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots EmojiList with names 1`] = `
+Array [
+  <div
+    className="sc-bwzfXH ezkdGX"
+  >
+    🦄
+  </div>,
+  <div
+    className="sc-bwzfXH ezkdGX"
+  >
+    🐱
+  </div>,
+  <div
+    className="sc-bwzfXH ezkdGX"
+  >
+    🐼
+  </div>,
+  <div
+    className="sc-bwzfXH ezkdGX"
+  >
+    🐨
+  </div>,
+]
+`;
